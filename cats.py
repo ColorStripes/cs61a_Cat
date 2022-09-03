@@ -1,4 +1,4 @@
-"""Typing test implementation"""
+"""Typing test implementation."""
 
 from utils import lower, split, remove_punctuation, lines_from_file
 from ucb import main, interact, trace
